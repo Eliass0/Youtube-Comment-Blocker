@@ -1,5 +1,4 @@
 let blockedAuthors = [];
-let ytcb2debug = false;
 
 
 // Function to update blocked authors from storage
