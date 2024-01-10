@@ -1,30 +1,28 @@
-# Youtube-Comment-Blocker
-Allows you to block comments from defined users across all YouTube comment sections.
+# YouTube Comment Blocker
+This tool enables you to block comments from specific users across all YouTube comment sections.
 
 ## Disclaimer
-I always wanted this and now with the power of our AI overlord I created it. I don't claim credit, I just share so that other can benefit too.
+I developed this tool because I found it personally useful and wanted to share it with others. It's a collaborative effort with AI technology, and I'm happy to share it with the community.
 
 ## License
-I don't guarantee shit. I trew this together with GPT4. I also don't really own any of this, so there is no copyright claim to make, I think.
-Same goes for security, I didn't check the code. I just checked if it works and it does, if there is anything else. Who knows?
+Please note that this is an open-source project. While I've utilized GPT-4 for its development, the code is freely available for use. However, I cannot make any legal claims regarding copyright or guarantees about its functionality.
 
 ## Updates
-If I continue usage of this and the youtube website changes and I have the needed tools I will update the extention probably.
+Should there be changes to YouTube's platform and I have the necessary resources, I intend to update the extension accordingly.
 
-## Plattforms
-I tested this on my local instance of the brave browser, but any chromium browser should do. Hey it's even manifest v3.
+## Platforms
+This extension has been tested on a local instance of the Brave browser, but it should work on any Chromium-based browser. It's compatible with manifest version 3.
 
 ## Usage
-The most important part. At the moment of writing this commenters are identified as such @username. So you just take the username with or without the '@'. I only tested without and put it in the box.
-Follow the magic boxes instructions, no newlines and comma seperated. I don't know if this is needed, but I just do what our AI overlord suggest.
+Currently, the tool identifies commenters using their @username. You can input the username (with or without the '@') into the designated field. Instructions are provided within the tool – remember to separate usernames with commas and avoid newlines.
 
 ## Installation
-1. Clone the repo
-2. Go to extentions in the browser
-3. Enable developer mode
-4. Load unpacked extention
-5. Click on the folder you just downloaded
+1. Clone the repository.
+2. Navigate to the extensions section in your browser.
+3. Activate developer mode.
+4. Choose 'Load unpacked extension'.
+5. Select the downloaded folder.
 
 ## Troubleshooting
-In the console there is verbose and redundant output.
-I hardcoded the delay to 2 seconds, you internet may be slower so you may have to increase that.
+Verbose and redundant output can be found in the console.
+The default delay is set to 2 seconds, which may need adjustment based on your internet speed.
