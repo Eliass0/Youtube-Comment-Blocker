@@ -8,7 +8,7 @@ I developed this tool because I found it personally useful and wanted to share i
 Please note that this is an open-source project. While I've utilized GPT-4 for its development, the code is freely available for use. However, I cannot make any legal claims regarding copyright or guarantees about its functionality.
 
 ## Updates
-Should there be changes to YouTube's platform and I have the necessary resources, I intend to update the extension accordingly.
+I since stopped the usage of this extention, so I won't be updating it. Feel free to fork it if you want to make changes.
 
 ## Platforms
 This extension has been tested on a local instance of the Brave browser, but it should work on any Chromium-based browser. It's compatible with manifest version 3.
